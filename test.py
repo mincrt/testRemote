@@ -30,3 +30,6 @@ def tellMe(a):
 
 tellMe(1)
 # print(tellMe(1))
+tellMe(1)
+tellMe(1)
+tellMe(1)
