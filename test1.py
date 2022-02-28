@@ -28,8 +28,7 @@ def tellMe(a):
     if a == 1:
         print("tell me!!!")
 
-tellMe(1)
-# print(tellMe(1))
-tellMe(1)
-tellMe(1)
-tellMe(1)
+for b in range(0,10):
+    a=1
+    tellMe(a)
+
